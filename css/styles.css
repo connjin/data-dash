@@ -1,3 +1,109 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Georgia", Georgia, serif;
+	padding: 1%;
+	font-style: bold;
+}
+
+p {
+	font-family: "Georgia", Georgia, serif;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	text-align: left;
+	margin-top: 2%;
+	font-size: 300%;
+}
+
+h6 {
+	color: grey;
+	font-size: 70%;
+}
+
+.img {
+	vertical-align: middle;
+}
+
+.header a {
+	color: #FF5443;
+}
+
+/*#header-text {
+	padding-bottom: 5%;
+}*/
+
+.btn p + p {
+	padding: 0;
+	margin: 0;
+}
+
+.btn {
+	background-color: #fcb400;
+	padding: 0;
+}
+
+#burg {
+	max-width: 25px;
+	max-height: 25px;
+	padding-top: 8px;
+}
+
+#lat-logo {
+	max-width: 300px;
+}
+
+.text {
+	margin: 0 auto;
+}
+
+.social-icons {
+	margin-top: 10%;
+}
+
+.twit img {
+	max-width: 20px;
+	max-height: 20px;
+	padding-right: 2px;
+}
+
+.mail img{
+	max-width: 20px;
+	max-height: 20px;
+	padding-left: 2px;
+}
+
+.fb img {
+	max-width: 25px;
+	max-width: 25px;
+}
+
+#map {
+	margin: 0 auto;
+	padding-bottom: 4%;
+	padding-top: 4%;
+}
+
+#wagemapdiv {
+	margin: 0 auto;
+}
+
 .wage-chart {
-	margin: 20%;
+	margin: 0 auto;
+}
+
+#drop-down {
+	padding-bottom: 4%;
+}
+
+.text .h1 {
+	text-align: center;
+}
+
+.lat-uw {
+	background-color: black;
+	text-align: center;
+	padding: 1%;
 }
