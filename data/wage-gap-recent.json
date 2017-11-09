@@ -1,0 +1,177 @@
+﻿[
+ {
+   "id": "AU",
+   "title": "Australia", 
+   "value": 14.3
+ },
+ {
+   "id": "AT",
+   "title": "Austria",
+   "value": 17
+ },
+ {
+   "id": "BE",
+   "title": "Belgium", 
+   "value": 3.3
+ },
+ {
+   "id": "CA",
+   "title": "Canada", 
+   "value": 18.6
+ },
+ {
+   "id": "CL",
+   "title": "Chile", 
+   "value": 21.1
+ },
+ {
+   "id": "CZ",
+   "title": "Czech Republic", 
+   "value": 16.3
+ },
+ {
+   "id": "DK",
+   "title": "Denmark", 
+   "value": 5.8
+ },
+ {
+   "id": "EE",
+   "title": "Estonia", 
+   "value": 28.3
+ },
+ {
+   "id": "FI",
+   "title": "Finland", 
+   "value": 18.1
+ },
+ {
+   "id": "FR",
+   "title": "France", 
+   "value": 9.9
+ },
+ {
+   "id": "DE",
+   "title": "Germany", 
+   "value": 17.1
+ },
+ {
+   "id": "GR",
+   "title": "Greece", 
+   "value": 6.2
+ },
+ {
+   "id": "HU",
+   "title": "Hungary", 
+   "value": 9.5
+ },
+ {
+   "id": "IS",
+   "title": "Iceland", 
+   "value": 9.9
+ },
+ {
+   "id": "IE",
+   "title": "Ireland", 
+   "value": 14.4
+ },
+ {
+   "id": "IL",
+   "title": "Israel", 
+   "value": 21.8
+ },
+ {
+   "id": "IT",
+   "title": "Italy", 
+   "value": 5.6
+ },
+ {
+   "id": "JP",
+   "title": "Japan", 
+   "value": 25.7
+ },
+ {
+   "id": "KR",
+   "title": "Korea", 
+   "value": 36.7
+ },
+ {
+   "id": "LV",
+   "title": "Latvia", 
+   "value": 21.1
+ },
+ {
+   "id": "LU",
+   "title": "Luxembourg", 
+   "value": 3.4
+ },
+ {
+   "id": "MX",
+   "title": "Mexico", 
+   "value": 16.5
+ },
+ {
+   "id": "NL",
+   "title": "Netherlands", 
+   "value": 14.1
+ },
+ {
+   "id": "NZ",
+   "title": "New Zealand", 
+   "value": 6.1
+ },
+ {
+   "id": "NO",
+   "title": "Norway", 
+   "value": 7.1
+ },
+ {
+   "id": "PL",
+   "title": "Poland", 
+   "value": 11.1
+ },
+ {
+   "id": "PT",
+   "title": "Portugal", 
+   "value": 18.9
+ },
+ {
+   "id": "SK",
+   "title": "Slovak Republic", 
+   "value": 13.9
+ },
+ {
+   "id": "SI",
+   "title": "Slovenia", 
+   "value": 5
+ },
+ {
+   "id": "ES",
+   "title": "Spain", 
+   "value": 11.5
+ },
+ {
+   "id": "SE",
+   "title": "Sweden", 
+   "value": 13.4
+ },
+ {
+   "id": "CH",
+   "title": "Switzerland", 
+   "value": 16.9
+ },
+ {
+   "id": "TR",
+   "title": "Turkey", 
+   "value": 6.9
+ },
+ {
+   "id": "GB",
+   "title": "United Kingdom", 
+   "value": 16.8
+ },
+ {
+   "id": "US",
+   "title": "United States", 
+   "value": 18.1
+ }
+]
